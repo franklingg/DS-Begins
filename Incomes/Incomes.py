@@ -20,7 +20,7 @@ np.random.seed(42)
 # In[2]:
 
 
-data = pd.read_csv('../../datasets/csv/income.csv')
+data = pd.read_csv('income.csv')
 
 print(data.head())
 
